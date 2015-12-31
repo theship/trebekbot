@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    crass (1.0.1)
+    crass (1.0.2)
     daemons (1.1.9)
     dotenv (1.0.2)
     eventmachine (1.0.4)
