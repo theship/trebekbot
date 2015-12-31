@@ -1,3 +1,7 @@
+# Original
+
+This was forked from [gesteves](https://github.com/gesteves/trebekbot). Best go there for the latest & greatest.
+
 # trebekbot
 
 Wow. A Jeopardy! bot for Slack, powered by the [jService](http://jservice.io/) API. Sets up a perpetual game of Jeorpardy! in your Slack channels.
